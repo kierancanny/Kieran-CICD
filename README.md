@@ -23,4 +23,4 @@ Build and run using Docker Compose:
 
 Hello world!
 
-## Header Text for push testing of CI/CD
+## Header Text for push testing of CI/CD Pipeline
