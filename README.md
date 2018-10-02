@@ -21,6 +21,6 @@ Build and run using Docker Compose:
 	$ docker login
 	$ docker-cloud stack up
 
-Hello world!
+Hello world! How are you?
 
 ## Header Text for push testing of CI/CD Pipeline
