@@ -23,4 +23,4 @@ Build and run using Docker Compose:
 
 Hello world! How are you? Test 3
 
-## Header Text for push testing of CI/CD Pipeline to ECR and ECS
+## Header Text for push testing of CI/CD Pipeline to ECR and ECS demo
